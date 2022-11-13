@@ -102,3 +102,6 @@ buck-out/
 
 
 packages/weekend-e2e/artifacts
+
+# Next.js
+.next
